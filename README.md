@@ -3,8 +3,8 @@
 👨‍💻 Desarrollador Full Stack orientado al backend (.NET, Java, React)  
 🌱 Actualmente aprendiendo Clean Architecture + DDD en ASP.NET Core  
 💼 Trabajo en **Bonar.tech**  
-🎓 Técnico Universitario en Programación – UTN Tucumán (Argentina)  
-📚 Estudiante de inglés (Nivel actual: A2)
+🎓 Egresado de Técnico Universitario en Programación – UTN (Universidad Tecnológica Nacional) – Facultad Regional Tucumán
+📚 Estudiante de inglés — Nivel A2 en curso
 
 ---
 
@@ -30,17 +30,17 @@
 
 ### 🧱 Proyectos profesionales / internos
 
-- 🔒 **E-commerce** — .NET + React + Docker Compose  
-- 🔒 **Bonar-Store** — Java + Spring Boot + React + Next.js + Docker Compose + PostgreSQL  
+- 🔒 **E-commerce** — .NET + React + Docker Compose  + Clean Architecture + Domain Driven Design
+- 🔒 **Bonar-Store** — Java + Spring Boot + React + Next.js + Docker Compose + PostgreSQL  + Architecture Capa + WebSocket
 - 🔒 **Bonar-Ferreto** — Java + Swing + MySQL  
 - 🔒 **Bonar-Taller** — Java + Swing + MySQL  
-- 🔒 **Bonar-Financiera** — .NET + React + Docker Compose + PostgreSQL  
+- 🔒 **Bonar-Financiera** — .NET + React + Docker Compose + PostgreSQL +Clean Architecture 
 - 🔒 **Sistema de Turnos – Centro Médico** — .NET + React + Docker Compose + PostgreSQL  
 - 🔒 **Landing Page – Estudio de Abogados** — TypeScript
 
 ### 🎓 Proyectos de cursos / libros
 
-- 📘 **Estacionamiento Clean Architecture** — .NET + React + DDD + SQL Server  
+- 📘 **Estacionamiento Clean Architecture** — .NET + React + DDD + SQL Server  + Clean Architecture + Domain Driven Design + Patones de diseño: CQRS (Command y Command Handler), Builder, Repository, Unit of Work, Domain Events, Exception Handling Middleware, Dependency Injection, Result / Either Pattern, Validator con FluentValidation
 - 📘 **FullStack School - Acceso a Datos** — .NET + React + Chakra UI  
 - 📘 **Guía Full Stack con .NET (Iván Abad Andréu)** — Proyecto MVC con Razor Views + Web API, .NET + Docker Compose 
 - 📘 **Spring MVC Boot** — Java + Spring Boot + PostgreSQL  
@@ -61,7 +61,7 @@
 
 ## 🔄 Experiencia en desarrollo de software
 
-He participado activamente en **todo el ciclo de vida del software**, incluyendo:
+**He participado activamente en todas las etapas del ciclo de vida del software**, incluyendo:
 
 - Definición y documentación de **casos de uso**
 - Diseño de **diagramas UML**
@@ -89,6 +89,17 @@ He participado activamente en **todo el ciclo de vida del software**, incluyendo
 - *JavaScript: The Definitive Guide (7th Edition)* – David Flanagan  
 
 ---
+
+### 🧩 Patrones de diseño utilizados
+- CQRS (Command y Command Handler)
+- Repository
+- Unit of Work
+- Domain Events
+- Middleware para manejo global de excepciones
+- Dependency Injection
+- Result / Either Pattern
+- FluentValidation
+- Builder Pattern
 
 ## 📫 Contacto
 
